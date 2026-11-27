@@ -1,0 +1,48 @@
+{
+  "logo_url": "https://YOUR-PUBLIC-IMAGE-HOST/gomchoem-logo.jpg",
+  "customer_name": "Nguyễn Thảo An",
+  "order_code": "GCE-20261121-001",
+  "order_date": "21/11/2026 · 14:35",
+  "is_paid": false,
+  "payment_status": "Đặt hàng thành công · Thanh toán khi nhận hàng",
+  "items": [
+    {
+      "name": "Bát hoa cúc men kem",
+      "sku": "GCE-001",
+      "quantity": 1,
+      "unit_price": "165.000đ",
+      "line_total": "165.000đ"
+    },
+    {
+      "name": "Ly gốm nông trại",
+      "sku": "GCE-002",
+      "quantity": 2,
+      "unit_price": "70.000đ",
+      "line_total": "140.000đ"
+    },
+    {
+      "name": "Thìa gốm mật ong",
+      "sku": "GCE-003",
+      "quantity": 1,
+      "unit_price": "35.000đ",
+      "line_total": "35.000đ"
+    }
+  ],
+  "subtotal": "340.000đ",
+  "discount": "20.000đ",
+  "shipping_fee": "20.000đ",
+  "total": "340.000đ",
+  "recipient_name": "Nguyễn Thảo An",
+  "recipient_phone": "0900 000 000",
+  "shipping_address": "Địa chỉ minh họa, Đà Nẵng",
+  "shipping_method": "Giao tận nơi · Đóng gói chống sốc",
+  "payment_method": "Thanh toán khi nhận hàng (COD)",
+  "payment_note": "Bạn thanh toán 340.000đ cho đơn vị vận chuyển khi nhận kiện gốm.",
+  "gift_note": "Gói quà và viết giúp mình: Chúc bạn những ngày thật bình yên!",
+  "has_invoice_attachment": true,
+  "invoice_filename": "Bien-nhan-GCE-20261121-001.pdf",
+  "order_url": "https://YOUR-WEBSITE/don-hang/YOUR-ORDER-ID",
+  "shop_phone": "",
+  "shop_address": "Đà Nẵng, Việt Nam",
+  "show_unsubscribe": false
+}
